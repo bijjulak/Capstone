@@ -45,22 +45,22 @@ For this project, I considered only 50 files for training. This equeates to 5000
 ### Visualizations
 Some basic visualization of the data
 
-Top 20 artists with the most number of tracks
-
+***Top 20 artists with the most number of tracks***
+![](/main/Artists_with_most_tracks.png)
 
 It seems like classical music trumps everyone else. 
 
-Top 20 artists by most number of playlist appearances
+***Top 20 artists by most number of playlist appearances***
 
 
 The artist "Drake" is the most popular artist on Spotify by a wide margin.
 
-Most popular track
-alt-text
+***Most popular track***
+
 
 Looking at the most popular songs, pop music tracks dominate the list.
 
-Distribution of Number of Tracks in a Playlist
+***Distribution of Number of Tracks in a Playlist***
 
 
 The distribution of th enumber of songs across the playlists vary by a wide margin. So I decided to go with the requirement for the Spotify challenge to recommend 500 songs for each playlist.
