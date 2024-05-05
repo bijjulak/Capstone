@@ -1,7 +1,7 @@
 # Music playlist recommendation model
 
 ***Link to notebook:*** 
-
+[Python notebook](/Capstone.ipynb)
 
 ## Project Overview
 
