@@ -86,6 +86,8 @@ In order to compare the similarities of the playlists, a sparse matrix of the pl
 Recommendation Generator
 As seen from the plot below, the n-neighbors algorithm is able to recommend songs with a >50% accuracy and is much better than the baseline model accuracy of ~14%
 
+![](/accuracy.png)
+
 ## Conclusions
 The goal this project was to create a recommendation system that would extend the listening queue of a given playlist. Based on a literature search, the most reasonable algorith was a user-based collaborative filtering algorithm. Ofcourse, this project is barely even scratching the surface. But still, if I had an algorithm that could recommend songs based on a 65% hit-rate, I would be pretty satisfied compared to the stuff I deal with. I am sure there are more complex algorithms available, but they are beyond my limited coding skills considering I learned to code 6 months back. 
 
